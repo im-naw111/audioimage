@@ -5,7 +5,7 @@ const s = (p) => {
     //audio         = p.loadSound('audio/d18_3.mp3');
     audio         = p.loadSound('audio/demo2.mp3')
     demo2Shader   = p.loadShader('shaders/base.vert', 'shaders/d2.frag')
-    img           = p.loadImage('img/2.jpg')
+    img           = p.loadImage('img/22.jpg')
     d_map         = p.loadImage('img/clouds.jpg')
   }
 
