@@ -7,7 +7,7 @@ let app = document.querySelector('#app');
 		 * Play the chime sound
 		 */
 		function playSound () {
-			let ding = new Audio('rr.mp3');
+			let ding = new Audio('audio/sad.mp3');
 			ding.play();
 		}
 
